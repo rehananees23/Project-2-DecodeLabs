@@ -9,7 +9,7 @@ A low-fidelity UX blueprint designed to maximize e-commerce micro-conversions, e
 The structural layout utilizes a classic, conversion-focused hierarchy designed to load instantly in the user's mind.
 
 <p align="center">
-  <img src="homepage-wireframe.PNG" width="90%" alt="Homepage Wireframe Layout">
+  <img src="Homepage Wireframe - Low Fidelity.png" width="90%" alt="Homepage Wireframe Layout">
 </p>
 
 ---
@@ -19,7 +19,7 @@ The structural layout utilizes a classic, conversion-focused hierarchy designed 
 Great UX isn't just static layouts—it is how the interface responds to user intent. Below is the behavioral blueprint for this interface:
 
 <p align="center">
-  <img src="interaction-logic.PNG" width="70%" alt="System Interaction Logic">
+  <img src="UI Functional Annotations.png" width="70%" alt="System Interaction Logic">
 </p>
 
 ### 🔍 1. Search Bar Behavior
